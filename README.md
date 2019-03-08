@@ -1,3 +1,3 @@
 # indoormap
 
-Indoor mapping JOSM style for Openstreetmap
+Basic Indoor mapping JOSM style for Openstreetmap
