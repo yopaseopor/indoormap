@@ -1,8 +1,8 @@
 
 meta 
 {
-    title: "Basic indoor mapping";
-    description: "Visualization of basic tagging in indoor mapping";
+    title: "(Basic) Indoor map";
+    description: "Visualization of basic tagging in indoor mapping for JOSM";
     link: "https://wiki.openstreetmap.org/wiki/Simple_Indoor_Tagging";
 	/* Based on Lane and Road Attributes by Martin Vonwald . Door icon created by smalllikeart from Flaticon */
     author: "yopaseopor";
